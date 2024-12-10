@@ -38,5 +38,3 @@ The analysis is based on anonymized e-commerce transactional data with the follo
 - Add predictive models for sales forecasting.
 - Integrate dashboards for real-time monitoring.
 
----
-
